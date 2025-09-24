@@ -1,0 +1,41 @@
+body {
+  font-family: Helvatica;
+  background-color: lightgreen;
+  margin: 20px;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  font-size: 28px;
+}
+
+h2 {
+  color: white;
+  background-color: green;
+  padding: 5px;
+}
+
+img {
+  display: block;
+  border: 3px solid green;
+  margin: 0 auto 0 auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.section {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 2px solid green;
+}
+
+ul,
+ol {
+  background-color: #f0fff0;
+  padding: 15px;
+  padding-left: 30px;
+}

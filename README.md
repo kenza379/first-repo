@@ -4,9 +4,9 @@ This project is for people who like Algeria and want to create a website about i
 
 ## Features
 
-- Feature 1: Description of feature
-- Feature 2: Description of feature
-- Feature 3: Description of feature
+- HTML Source code
+- CSS source code
+- Instructions
 
 ## Installation
 
